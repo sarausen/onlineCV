@@ -1,6 +1,4 @@
 .ss {
-    
-    
     /* background-color: rgb(219, 217, 219); */
     padding-left: 70px;
 }
@@ -11,4 +9,16 @@ h2 {
 .ff {
     width: 700px;
     padding-top: 10px;
+}
+h3 {
+    padding-top: 30px;
+}
+.resume_expierience {
+    padding-top: 3px;
+}
+.resume_education {
+    padding-top: 3px;
+}
+.extra_economist {
+    padding-top: 3px;
 }
