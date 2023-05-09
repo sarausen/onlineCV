@@ -9,4 +9,5 @@
 }
 .portfolio_block {
     display: flex;
+    font-weight: normal;
 }
