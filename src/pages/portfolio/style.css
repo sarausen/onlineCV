@@ -1,0 +1,12 @@
+.portfolio_img {
+    width: 300px;
+    margin-right: 40px;
+}
+.portfolio_project {
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.portfolio_block {
+    display: flex;
+}
